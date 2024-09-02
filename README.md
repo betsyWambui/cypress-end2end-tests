@@ -1,1 +1,1 @@
-# Onima-cypress-end2end-tests
+# cypress-end2end-tests
